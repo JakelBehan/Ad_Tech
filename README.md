@@ -16,4 +16,4 @@ A Presentation utilizing the charts and insight gathered was made in Google Slid
 
 # Other
 
-The second part of this challenge asks to respond to a real life situation while detailing the process and response to the scenario. The details of part two can be seen in the SBM 2017 Analytics Challenge.pdf. The Response can be seen here
+The second part of this challenge asks to respond to a real life situation while detailing the process and response to the scenario. The details of part two can be seen in the SBM 2017 Analytics Challenge.pdf. The Response can be seen in the Ad_Tech_Challenge_Part_2.pdf
