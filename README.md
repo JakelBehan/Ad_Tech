@@ -8,4 +8,9 @@ We were given real data that Chegg has received from its ad partners in a csv fi
 Finally the calculator was made in a new sheet. 
 
 # Analysis
-After creating a clean pivot table, the calculator was made in a new sheet. The calculator can be seen here. The date cell is referenced by every function and looks up data from the pivot table. Changing the date calculates the specific metrics for the seven days leading up to and including the date refenced. The weeks where many instances of no values were reported causes a bit of trouble for the calculator, for example #DIV/0!. However the dates required of the project work fine along with weeks that don't have any missing data.
+
+After creating a clean pivot table, the calculator was made in a new sheet. The calculator can be seen here. The date cell is referenced by every function and looks up data from the pivot table. Changing the date calculates the specific metrics for the seven days leading up to and including the date refenced. The weeks where many instances of no values were reported causes a bit of trouble for the calculator, for example #DIV/0!. However the dates required of the project work fine along with weeks that don't have any missing data. Visualizations were also created using data from the calculator that display revenue and impression metrics for each ad partner.
+
+# Share
+
+A Presentation utilizing the charts and insight gathered was made in Google Slides. It Details the findings and gives recommendations on how to move forward given the business task. The presentation is linked here https://docs.google.com/presentation/d/1DI1JOxZI_r1kTynEBCx_z_kvH_Q18wEevoof3Pio5dI/edit?usp=sharing
