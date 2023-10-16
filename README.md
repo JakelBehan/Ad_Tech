@@ -13,3 +13,7 @@ After creating a clean pivot table, the calculator was made in a new sheet. The 
 # Share
 
 A Presentation utilizing the charts and insight gathered was made in Google Slides. It Details the findings and gives recommendations on how to move forward given the business task. The presentation is linked here https://docs.google.com/presentation/d/1DI1JOxZI_r1kTynEBCx_z_kvH_Q18wEevoof3Pio5dI/edit?usp=sharing
+
+# Other
+
+The second part of this cha
